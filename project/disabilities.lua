@@ -1,1 +1,4 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/zaizooo/ayumi-cdn/main/project/Protected_6853870346415976.lua.txt")()
+
+
+print("Ok Loaded") 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/zaizooo/ayumi-cdn/main/project/Protected_5837130851824160.lua.txt")()
